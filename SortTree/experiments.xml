@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<experiments>
+	<experiment name="arith">
+		<minElement>0</minElement>
+		<maxElement>150</maxElement>
+		<startLength>0</startLength>
+		<diff>2</diff>
+		<maxLength>500</maxLength>
+		<repeat>3</repeat>
+	</experiment>
+	<experiment name="denom">
+		<minElement>0</minElement>
+		<maxElement>30</maxElement>
+		<startLength>0</startLength>
+		<diff>2</diff>
+		<maxLength>20000</maxLength>
+		<repeat>2</repeat>
+	</experiment>
+</experiments>

@@ -1,0 +1,16 @@
+D:\Captures\Алгоритмы\Лаба 2\SortTree\bin\Debug\net5.0\SortTree.exe
+D:\Captures\Алгоритмы\Лаба 2\SortTree\bin\Debug\net5.0\SortTree.deps.json
+D:\Captures\Алгоритмы\Лаба 2\SortTree\bin\Debug\net5.0\SortTree.runtimeconfig.json
+D:\Captures\Алгоритмы\Лаба 2\SortTree\bin\Debug\net5.0\SortTree.runtimeconfig.dev.json
+D:\Captures\Алгоритмы\Лаба 2\SortTree\bin\Debug\net5.0\SortTree.dll
+D:\Captures\Алгоритмы\Лаба 2\SortTree\bin\Debug\net5.0\ref\SortTree.dll
+D:\Captures\Алгоритмы\Лаба 2\SortTree\bin\Debug\net5.0\SortTree.pdb
+D:\Captures\Алгоритмы\Лаба 2\SortTree\obj\Debug\net5.0\SortTree.csprojAssemblyReference.cache
+D:\Captures\Алгоритмы\Лаба 2\SortTree\obj\Debug\net5.0\SortTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Captures\Алгоритмы\Лаба 2\SortTree\obj\Debug\net5.0\SortTree.AssemblyInfoInputs.cache
+D:\Captures\Алгоритмы\Лаба 2\SortTree\obj\Debug\net5.0\SortTree.AssemblyInfo.cs
+D:\Captures\Алгоритмы\Лаба 2\SortTree\obj\Debug\net5.0\SortTree.csproj.CoreCompileInputs.cache
+D:\Captures\Алгоритмы\Лаба 2\SortTree\obj\Debug\net5.0\SortTree.dll
+D:\Captures\Алгоритмы\Лаба 2\SortTree\obj\Debug\net5.0\ref\SortTree.dll
+D:\Captures\Алгоритмы\Лаба 2\SortTree\obj\Debug\net5.0\SortTree.pdb
+D:\Captures\Алгоритмы\Лаба 2\SortTree\obj\Debug\net5.0\SortTree.genruntimeconfig.cache
